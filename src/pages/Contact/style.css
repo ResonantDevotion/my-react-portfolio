@@ -1,0 +1,7 @@
+.iconBox { 
+height: 10px;
+}
+
+.icon { 
+  object-fit: contain;
+}

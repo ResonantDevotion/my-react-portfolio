@@ -1,0 +1,11 @@
+:root {
+  --lightestgreen: #cdddb7;
+  --lightgreen: #b7bd97;
+  --lightbrown: #858377;
+  --darkbrown: #65666c;
+  --darkest: #4e4e64;
+}
+
+.background { 
+  background-color: #4e4e64;
+}
