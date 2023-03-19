@@ -10,6 +10,9 @@ This was a project that I was able to draw lots of different new skills together
 
 The deployed application can be found here at:
 
+https://resonantdevotion.github.io/my-react-portfolio/
+
+Although it may just link to the README.
 
 
 
@@ -17,16 +20,17 @@ The deployed application can be found here at:
 N/A
 
 ## Installation
-
-N/A
+For installation please use download react and use npm start!
 
 
 ## Usage 
-Deployed application should look like the following images:
+Deployed application should look like the following image:
+
+<img width="1440" alt="Screenshot 2023-03-20 at 12 45 41 PM" src="https://user-images.githubusercontent.com/119468426/226217362-2fd57e12-9e77-4679-b093-6fe248cdc572.png">
 
 
 ## Credits
-Thanks to Skills Bootcamp, my tutor, Weng, and my classmates on slack.
+Thanks to Skills Bootcamp, my tutor, Ali, my brother Craig, and my classmates on slack.
 
 ## License
 MIT license.
