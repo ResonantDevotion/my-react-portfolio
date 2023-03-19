@@ -1,0 +1,31 @@
+/* .iconBox { 
+height: 10px;
+}
+
+/* .icon { 
+  object-fit: contain;
+} */
+
+:root {
+  --lightestgreen: #cdddb7;
+  --lightgreen: #b7bd97;
+  --lightbrown: #858377;
+  --darkbrown: #65666c;
+  --darkest: #4e4e64;
+}
+
+#email{
+  color: var(--lightestgreen)
+}
+
+#message { 
+  color: var(--lightestgreen) !important;
+}
+
+#text {
+  color: var(--lightgreen) !important;
+}
+
+#button {
+  background-color: var(--darkbrown);
+}

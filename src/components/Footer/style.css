@@ -1,14 +1,21 @@
-.footer {
-  min-height: 100px;
-  background: #E5E5E5;
-  position: relative;
+:root {
+  --lightestgreen: #cdddb7;
+  --lightgreen: #b7bd97;
+  --lightbrown: #858377;
+  --darkbrown: #65666c;
+  --darkest: #4e4e64;
 }
 
-.footer span {
+.footer {
+  background: var(--lightestgreen);
+  height: 50px;
+  padding: 10px;
   position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 3px;
-  background: #B8B8B8;
+  width: 100%;
+}
+
+h3 {
+  color: #4e4e64;
+  text-align: center;
+  font-size: 18px;
 }
