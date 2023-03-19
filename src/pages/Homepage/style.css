@@ -31,3 +31,7 @@ background-color: #4e4e64 !important;
   background-color: rgba(183, 189, 151, 0.8);
   padding: 40px;
 }
+
+#me {
+  height: 100px;
+}

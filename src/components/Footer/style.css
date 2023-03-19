@@ -8,9 +8,10 @@
 
 .footer {
   background: var(--lightestgreen);
-  position: relative;
   height: 50px;
   padding: 10px;
+  position: absolute;
+  width: 100%;
 }
 
 h3 {
