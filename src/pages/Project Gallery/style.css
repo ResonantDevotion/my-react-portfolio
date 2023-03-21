@@ -1,0 +1,25 @@
+:root {
+    --lightestgreen: #cdddb7;
+    --lightgreen: #b7bd97;
+    --lightbrown: #858377;
+    --darkbrown: #65666c;
+    --darkest: #4e4e64;
+}
+
+.projectSection {
+    background-color: var(--lightgreen);
+    border-radius: 30px;
+    border: 2px solid #cdddb7;
+    padding: auto;
+}
+
+.carousell {
+    padding: 100px;
+    background-color: #858377;
+    border: 10px solid #b7bd97;
+}
+
+.button {
+    background-color: #858377;
+    border-radius: 10%;
+}

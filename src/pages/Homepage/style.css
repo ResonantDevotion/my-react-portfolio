@@ -6,20 +6,19 @@
   --darkest: #4e4e64;
 }
 
-body { 
+body {
   background-image: url('http://wallpapercave.com/wp/9T98KIP.jpg');
-  background-repeat: repeat-x;
 }
 
 .body {
-background-color: #4e4e64 !important;
+  background-color: #4e4e64 !important;
 }
 
 .section {
   position: relative;
   margin: auto;
   background-image: url('http://wallpapercave.com/wp/9T98KIP.jpg');
-  background-position-y: 31%;
+  background-position-y: 35%;
   padding: 40px;
 }
 
@@ -34,4 +33,6 @@ background-color: #4e4e64 !important;
 
 #me {
   height: 100px;
+  position: relative;
+  bottom: 10%;
 }
