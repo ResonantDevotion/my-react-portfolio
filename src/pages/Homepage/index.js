@@ -13,7 +13,7 @@ function Homepage() {
                     Please explore this web app and test its limits, and let me know what you think by following my contacts.
                     My purpose in life is to serve life.
                 </p>
-                <img src='./images/me.jpg' id='me'></img>
+                <img src='./images/me.jpg' id='me' alt="me"></img>
             </div>
         </section>
     );
