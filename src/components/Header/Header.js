@@ -1,7 +1,9 @@
+// importing various folders/libraries to use here
 import React from "react";
 import "./style.css";
 import Nav from 'react-bootstrap/Nav';
 
+//function that creates a header element for the App, using bootstrap navbar
 function Header() {
     return (
         <section>
@@ -23,19 +25,8 @@ function Header() {
                 </Nav.Item>
             </Nav>
         </section>
-
     );
 }
 
-
+//exports the file to be used elsewhere
 export default Header;
-
-
-//   <div className="hero text-center" style={{ backgroundImage: `url(${props.backgroundImage})` }}>
-//     {props.children}
-//   </div>
-
-
-// Must be rendered across every page component of the site
-
-// Must contain a Navbar
